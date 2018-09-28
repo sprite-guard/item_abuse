@@ -1,0 +1,17 @@
+{
+  "main": "game.htm",
+  "name": "item-abuse",
+  "description": "Platformer by SpriteGuard",
+  "version": "0.0.0",
+  "window": {
+    "title": "Item Abuse",
+    "toolbar": false,
+    "frame": true,
+    "width": 799,
+    "height": 599,
+    "resizable": true,
+  },
+  "dependencies": {
+    "pixi.js": "^4.8.2"
+  }
+}
